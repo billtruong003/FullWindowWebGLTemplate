@@ -18,6 +18,7 @@ A Unity WebGL template that provides a responsive, full-window experience.
             Live Preview
         </a>
     </strong>
+    <br>
     <img src="BillTheDevSample/Visualize/show-case.gif" alt="Show Case Gif" >
 </p>
 
