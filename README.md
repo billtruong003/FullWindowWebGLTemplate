@@ -14,7 +14,7 @@ A Unity WebGL template that provides a responsive, full-window experience.
 ## Features
 <p align="center">
     <strong style="font-size: 100px;">
-        <a href="https://billtruong003.github.io/FullWindowWebGLTemplate/" style="color: inherit; text-decoration: none;">
+        <a href="https://billtruong003.github.io/Responsive-WebGL-Template/" style="color: inherit; text-decoration: none;">
             Live Preview
         </a>
     </strong>
