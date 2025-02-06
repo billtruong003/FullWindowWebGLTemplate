@@ -1,0 +1,17 @@
+{
+    "name": "com.billthedev.fullwindowwebgltemplate",
+    "version": "1.0.0",
+    "displayName": "BillTheDev-Full-Window-WebGL-Template",
+    "description": "A WebGL template by BillTheDev for full-window scenes with a loading bar.",
+    "author": {
+        "name": "BillTheDev",
+        "email": "truongbill003@gmail.com"
+    },
+    "dependencies": {},
+    "keywords": [
+        "webgl",
+        "template",
+        "full-window",
+        "billthedev"
+    ]
+}
