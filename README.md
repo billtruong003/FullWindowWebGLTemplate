@@ -13,10 +13,11 @@ A Unity WebGL template that provides a responsive, full-window experience.
 
 ## Features
 <p align="center">
-    <strong style="font-size: 100px;" href ="#" >
-        Live Preview
+    <strong style="font-size: 100px;">
+        <a href="https://billtruong003.github.io/FullWindowWebGLTemplate/" style="color: inherit; text-decoration: none;">
+            Live Preview
+        </a>
     </strong>
-    <br>
     <img src="BillTheDevSample/Visualize/show-case.gif" alt="Show Case Gif" >
 </p>
 
@@ -27,7 +28,7 @@ A Unity WebGL template that provides a responsive, full-window experience.
 
 ## Installation (via .unitypackage - Recommended)
 
-1.  **Download the .unitypackage:** Go to the [Releases](Link-to-your-GitHub-Releases-page) page of this repository and download the latest `ResponsiveWebGLTemplate.unitypackage` file.
+1.  **Download the .unitypackage:** Go to the [Releases](https://github.com/billtruong003/FullWindowWebGLTemplate/releases/tag/unitypackage) page of this repository and download the latest `ResponsiveWebGLTemplate.unitypackage` file.
 2.  **Import into your Unity project:** In your Unity project, go to `Assets > Import Package > Custom Package...` and select the downloaded `ResponsiveWebGLTemplate.unitypackage` file.
 3.  **Locate the template:** After importing, the template files will be located in `Assets/WebGLTemplates/ResponsiveWebGL/`.
 
