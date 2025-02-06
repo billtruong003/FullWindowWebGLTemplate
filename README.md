@@ -2,7 +2,7 @@
 <p align="center">
   <img src="BillTheDevSample/Visualize/profile.webp" alt="Aki-Maid" style="border-radius: 50%; border: 5px solid #ff6600; width: 200px"/>
   <br>
-  <strong style="font-size: 30px;">
+  <strong style="font-size: 100px;">
     <span style="color: #FFA500; text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;">Bill</span>
     <span style="color: #808080; text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;">The</span>
     <span style="color: #000000; text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;">Dev</span>
@@ -13,9 +13,12 @@ A Unity WebGL template that provides a responsive, full-window experience.
 
 ## Features
 <p align="center">
+    <strong style="font-size: 100px;" href ="#" >
+        Live Preview
+    </strong>
   <img src="BillTheDevSample/Visualize/show-case.gif" alt="Show Case Gif" >
 </p>
-![Select Template](BillTheDevSample/Visualize/show-case.gif)
+
 *   **Responsive Design:** Adapts to different browser window sizes, ensuring your WebGL game looks great on various screens.
 *   **Full-window Display:**  The template is designed to make your WebGL game occupy the entire browser window without scrollbars.
 *   **Basic Loading Bar:**  Includes a simple loading bar to provide visual feedback during the loading process.
