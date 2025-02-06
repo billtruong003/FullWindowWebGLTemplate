@@ -16,7 +16,8 @@ A Unity WebGL template that provides a responsive, full-window experience.
     <strong style="font-size: 100px;" href ="#" >
         Live Preview
     </strong>
-  <img src="BillTheDevSample/Visualize/show-case.gif" alt="Show Case Gif" >
+    <br>
+    <img src="BillTheDevSample/Visualize/show-case.gif" alt="Show Case Gif" >
 </p>
 
 *   **Responsive Design:** Adapts to different browser window sizes, ensuring your WebGL game looks great on various screens.
